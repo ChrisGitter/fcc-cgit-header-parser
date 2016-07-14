@@ -1,6 +1,6 @@
 {
   "name": "header-parser",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Parses some header information from the request and returns it in json format.",
   "main": "server.js",
   "scripts": {
